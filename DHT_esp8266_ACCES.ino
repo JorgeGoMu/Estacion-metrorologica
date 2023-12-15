@@ -5,8 +5,8 @@
 #include <SFE_BMP180.h>
 #include <Wire.h>
 
-const char* ssid ="Xiaomi 13T";
-const char* password ="cris123456789";
+const char* ssid ="YourNetwork";
+const char* password ="YourPassword";
 
 
 float f;
